@@ -7,8 +7,8 @@
         - [Glucose](Micro Flow Charts/GN.pdf)
           - [Lactose Fermenter](Micro Flow Charts/GNR LF.pdf)
           - Nonlactose Fermenter
-            - [Oxidase Positive](Micro Flow Charts/GNR GF-NLF Ox +.pdf)
-            - [Oxidase Negative](Micro Flow Charts/GNR GF-NLF Ox -.pdf)
+            - [Oxidase +](Micro Flow Charts/GNR GF-NLF Ox +.pdf)
+            - [Oxidase -](Micro Flow Charts/GNR GF-NLF Ox -.pdf)
       - Glucose NONfermenter
         -
   - Gram Positive
