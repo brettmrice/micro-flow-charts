@@ -1,23 +1,28 @@
 ## Gram Stain
-- Aerobes
-  - Gram Negative
+##### - Aerobes
+  - **Gram Negative**
     - [Diplococci, Pleomorphic](Micro Flow Charts/GN.pdf)
-    - Bacilli
+    - Rod/Bacilli
       - Glucose Fermenter
-        - [Glucose](Micro Flow Charts/GN.pdf)
-          - [Lactose Fermenter](Micro Flow Charts/GNR LF.pdf)
-          - Nonlactose Fermenter
-            - [Oxidase +](Micro Flow Charts/GNR GF-NLF Ox +.pdf)
-            - [Oxidase -](Micro Flow Charts/GNR GF-NLF Ox -.pdf)
-      - Glucose NONfermenter
-        - 
-  - Gram Positive
+        - [Lactose Fermenter](Micro Flow Charts/GNR LF.pdf)
+        - Nonlactose Fermenter
+          - [Oxidase +](Micro Flow Charts/GNR GF-NLF Ox +.pdf)
+          - [Oxidase -](Micro Flow Charts/GNR GF-NLF Ox -.pdf)
+      - [Glucose NONfermenter](Micro Flow Charts/GNR NGF.pdf)
+  - **Gram Positive**
     - [Cocci](Micro Flow Charts/GPC.pdf)
-    - [Bacilli](Micro Flow Charts/GPR.pdf)
+    - [Rod/Bacilli](Micro Flow Charts/GPR.pdf)
 
-- Anearobes
+##### - Anaerobes
   - [Overview](Micro Flow Charts/Anearobes/Anearobes.pdf)
-  - [Gram Negative Rod](Micro Flow Charts/Anearobes/)
+    - Gram Positive Rod/Bacilli
+      - [Spore +](Micro Flow Charts/Anearobes/GPR S+.pdf)
+      - [Spore -](Micro Flow Charts/Anearobes/GPR S-.pdf)
+    - [Gram Positive Cocci](Micro Flow Charts/Anearobes/GPC.pdf)
+    - [Gram Negative Rod/Bacilli and Cocci](Micro Flow Charts/Anearobes/GNR_C.pdf)
+
+##### - Facultative anaerobe
+  - [Enterobacteriaceae, stool culture](Micro Flow Charts/Entero - Stool.pdf)
 
 ## Mycobacteria
 - [Mycobacteria](Micro Flow Charts/Mycobacteria/Mycobacteria P0.pdf)
@@ -30,7 +35,7 @@
   - [dsDNA](Micro Flow Charts/Virology/dsDNA.pdf)
   - [ssDNA, dsRNA](Micro Flow Charts/Virology/ssDNA _ dsRNA.pdf)
   - [ssRNA Part 1](Micro Flow Charts/Virology/ssRNA P1.pdf)
-  - [dsDNA Part 2](Micro Flow Charts/Virology/ssRNA P2.pdf)
+  - [ssRNA Part 2](Micro Flow Charts/Virology/ssRNA P2.pdf)
   - [Hepatitis](Micro Flow Charts/Virology/Hepatitis.pdf)
 
 
