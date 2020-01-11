@@ -1,7 +1,19 @@
 ## Gram Stain
 - Aerobes
-  - [Gram Negative](Micro Flow Charts/GN.pdf)
-    - [Gram Negative](Micro Flow Charts/GN.pdf)
+  - Gram Negative
+    - [Diplococci, Pleomorphic](Micro Flow Charts/GN.pdf)
+    - Bacilli
+      - Glucose Fermenter
+        - [Glucose](Micro Flow Charts/GN.pdf)
+          - [Lactose Fermenter](Micro Flow Charts/GNR LF.pdf)
+          - Nonlactose Fermenter
+            - [Oxidase Positive](Micro Flow Charts/GNR GF-NLF Ox +.pdf)
+            - [Oxidase Negative](Micro Flow Charts/GNR GF-NLF Ox -.pdf)
+      - Glucose NONfermenter
+        -
+  - Gram Positive
+    - [Cocci](Micro Flow Charts/GPC.pdf)
+    - [Bacilli](Micro Flow Charts/GPR.pdf)
 
 - Anearobes
   - [Overview](Micro Flow Charts/Anearobes/Anearobes.pdf)
