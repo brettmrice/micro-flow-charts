@@ -10,7 +10,7 @@
             - [Oxidase +](Micro Flow Charts/GNR GF-NLF Ox +.pdf)
             - [Oxidase -](Micro Flow Charts/GNR GF-NLF Ox -.pdf)
       - Glucose NONfermenter
-        -
+        - 
   - Gram Positive
     - [Cocci](Micro Flow Charts/GPC.pdf)
     - [Bacilli](Micro Flow Charts/GPR.pdf)
