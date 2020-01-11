@@ -1,5 +1,5 @@
 ## Gram Stain
-##### - Aerobes
+ - Aerobes
   - **Gram Negative**
     - [Diplococci, Pleomorphic](Micro Flow Charts/GN.pdf)
     - Rod/Bacilli
@@ -13,15 +13,15 @@
     - [Cocci](Micro Flow Charts/GPC.pdf)
     - [Rod/Bacilli](Micro Flow Charts/GPR.pdf)
 
-##### - Anaerobes
-  - [Overview](Micro Flow Charts/Anearobes/Anearobes.pdf)
+ - Anaerobes
+  - [Overview](Micro Flow Charts/Anearobes/Anaerobes.pdf)
     - Gram Positive Rod/Bacilli
       - [Spore +](Micro Flow Charts/Anearobes/GPR S+.pdf)
       - [Spore -](Micro Flow Charts/Anearobes/GPR S-.pdf)
     - [Gram Positive Cocci](Micro Flow Charts/Anearobes/GPC.pdf)
     - [Gram Negative Rod/Bacilli and Cocci](Micro Flow Charts/Anearobes/GNR_C.pdf)
 
-##### - Facultative anaerobe
+ - Facultative anaerobe
   - [Enterobacteriaceae, stool culture](Micro Flow Charts/Entero - Stool.pdf)
 
 ## Mycobacteria
