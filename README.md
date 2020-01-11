@@ -1,3 +1,7 @@
-## Clinical Microbiology Flow Charts for Organism Identification
+## Gram Stain
+- [Gram Negative](Micro Flow Charts/GN.pdf)
 
-- [Link](url) and ![Image](src)
+- [Gram Negative](Micro Flow Charts/GN.pdf)
+
+
+and ![Image](src)
